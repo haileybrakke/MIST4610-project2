@@ -27,7 +27,7 @@ Geolocation (Geographic values): Specifies the exact location data was collected
 
 We are basing our analysis on geographic variation and demographic disparities in colorectal cancer screening across U.S. states. The team chose to analyze colorectal cancer for two reasons: 
 
-1. Amount and depth of colorectal cancer data in the dataset. The dataset includes “Colorectal cancer screening among adults aged 45–75 years” and provides values by location, year, data value type, and stratification group, which makes it possible to study both statewide patterns and disparities across groups.
+1. Amount and depth of colorectal cancer data in the dataset. The dataset includes data on screening rates and mortality rates by location, year, data value type, and stratification group, which makes it possible to study both statewide patterns and disparities across groups.
 2. Colorectal cancer prevalence within the United States. Recently, colon cancer has been the subject of many news articles due to the increase in number of cases, especially in young people. As of 2026, about 1 in 25 men and 1 in 26 women will develop colorectal cancer (Cancer Research Institute).
 
 
