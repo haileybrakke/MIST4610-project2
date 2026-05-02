@@ -16,6 +16,7 @@ Ja’Khiyan Dowdy (put link here)
 The dataset used for this analysis is the U.S. Chronic Disease Indicators dataset, obtained from Data.gov and originally compiled by the Centers for Disease Control and Prevention (CDC). This dataset provides comprehensive, state-level data on a wide range of chronic health conditions and risk factors across the United States. The dataset has 34 columns and over 300,000 rows. Data can be analyzed across several dimensions, including time (year), geography (state), health condition (indicator), and demographics. 
 
 Key Columns and Data Types:
+
 Year (Numerical): The year data was collected
 Location (String): The U.S. state where data was collected 
 Question (String): Describes the specific health indicator being measured
