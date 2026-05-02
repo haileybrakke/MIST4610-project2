@@ -11,6 +11,16 @@ Tony Jimenez (put link here)
 
 Ja’Khiyan Dowdy (put link here)
 
+# Our Dataset
 
+# Question 1
+
+# Question 2
+
+# Manipulations Applied to Dataset
+
+# Question 1 Analysis
+
+# Question 2 Analysis
 
 
