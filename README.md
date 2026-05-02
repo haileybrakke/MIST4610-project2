@@ -28,11 +28,13 @@ Geolocation (Geographic values): Specifies the exact location data was collected
 
 # Question 1
 
-How have cancer rates changed over time across U.S. states, and which regions consistently experience the highest burden?
+How have cancer rates changed over time across U.S. states, and which regions consistently experience the highest burden?   
+Importance: xxxx
 
 # Question 2
 
-What is the relationship between key behavioral risk factors (smoking, physical inactivity, and dietary habits) and cancer incidence across U.S. states?
+What is the relationship between key behavioral risk factors (smoking, physical inactivity, and dietary habits) and cancer incidence across U.S. states?    
+Importance: xxxxxx
 
 # Manipulations Applied to Dataset
 
