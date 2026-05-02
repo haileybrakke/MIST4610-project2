@@ -28,18 +28,17 @@ Geolocation (Geographic values): Specifies the exact location data was collected
 
 # Question 1
 
-How have cancer rates changed over time across U.S. states, and which regions consistently experience the highest burden?   
-Importance: Evaluating how cancer rates change over time and which areas are suffering the most is important from social and economic perspectives. From a social standpoint, regional differences in cancer burden may reflect disparities in healthcare access, environmental quality, and socioeconomic conditions. Understanding these patterns helps highlight populations that may be underserved or at greater risk. From an economic perspective, understanding how rates are changing over time will help evaluate the success of public health initatives and investments in overall healthcare infrastructure. This relates to the dataset's cancer-related indicators which include information on the over multiple years and multiple regions of the United States.
+How do colorectal cancer screening rates vary across U.S. states, and which regions consistently show the lowest screening rates?  
+Importance:
 
 # Question 2
 
-What is the relationship between key behavioral risk factors (smoking, physical inactivity, and dietary habits) and cancer incidence across U.S. states?    
-Importance: xxxxxx
+How do colorectal cancer screening rates differ by race/ethnicity across U.S. states, and where are the largest disparities?   
+Importance: 
 
 # Manipulations Applied to Dataset
 
-Question 1:    
-To answer Question 1, the team perfomed several manipulations to the dataset. First, the team removed unnessecary colums to clean the data. Those include columns such as demographic data, data value footnotes, low confidence limit, high confidence limit, data source, and more. This narrowed down the dataset to 8 columns: Year Start, Year End, Location (State), Question, Data Value Unit, Data Value Type, Data Value, and Geolocation. After narrowing the columns, the team filterd the Question, Data Value Unit, and Data Value Type. The team filtered Question to specify "Invasive cancer (all sites combined), incidence", Data Value Unit to "per 100,000", and Data Value Type to "Age-adjusted Rate". Finally, the team removed rows where Data Value was null or empty. This allowed the team to ensure that all visualizations were based on data of the same unit and type as well as to ensure complete and reliable data.
+
 
 # Question 1 Analysis
 
