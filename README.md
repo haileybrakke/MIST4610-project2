@@ -28,12 +28,11 @@ Geolocation (Geographic values): Specifies the exact location data was collected
 
 # Question 1
 
-How do rates of cancer vary across U.S. states, and which regions consistently show the highest burden?
+How have cancer rates changed over time across U.S. states, and which regions consistently experience the highest burden?
 
 # Question 2
 
-What is the relationship between behavioral risk factors (e.g., smoking, physical inactivity, poor diet) and cancer prevalence across states?
-
+What is the relationship between key behavioral risk factors (smoking, physical inactivity, and dietary habits) and cancer incidence across U.S. states?
 
 # Manipulations Applied to Dataset
 
