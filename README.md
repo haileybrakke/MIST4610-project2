@@ -38,6 +38,9 @@ Importance: xxxxxx
 
 # Manipulations Applied to Dataset
 
+Question 1:    
+To answer Question 1, the team perfomed several manipulations to the dataset. First, the team removed unnessecary colums to clean the data. Those include columns such as demographic data, data value footnotes, low confidence limit, high confidence limit, data source, and more. This narrowed down the dataset to 8 columns: Year Start, Year End, Location (State), Question, Data Value Unit, Data Value Type, Data Value, and Geolocation. After narrowing the columns, the team filterd the Question, Data Value Unit, and Data Value Type. The team filtered Question to specify "Invasive cancer (all sites combined), incidence", Data Value Unit to "per 100,000", and Data Value Type to "Age-adjusted Rate". Finally, the team removed rows where Data Value was null or empty. This allowed the team to ensure that all visualizations were based on data of the same unit and type as well as to ensure complete and reliable data.
+
 # Question 1 Analysis
 
 # Question 2 Analysis
