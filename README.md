@@ -25,6 +25,8 @@ Stratification Category (String): Collects demographic information
 Stratification (String): Collects more specific demographic breakdowns within the category   
 Geolocation (Geographic values): Specifies the exact location data was collected   
 
+We are basing our analysis on geographic variation and demographic disparities in colorectal cancer screening across U.S. states
+
 
 # Question 1
 
