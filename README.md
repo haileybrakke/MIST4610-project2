@@ -20,7 +20,7 @@ Year (Numerical): The year data was collected
 Location (String): The U.S. state where data was collected   
 Question (String): Describes the specific health indicator being measured  
 Data Value (Numerical): The number associated with the specific health indicator   
-Data Value Unit (String): Specifies the unit of measurement 
+Data Value Unit (String): Specifies the unit of measurement    
 Stratification Category (String): Collects demographic information   
 Stratification (String): Collects more specific demographic breakdowns within the category   
 Geolocation (Geographic values): Specifies the exact location data was collected   
