@@ -43,6 +43,7 @@ Importance:
 
 # Manipulations Applied to Dataset
 
+Question 1: For Question 1, we used Excel’s Transform feature to narrow the original U.S. Chronic Disease Indicators dataset to only the records needed for colorectal cancer screening analysis. We filtered the data to the Cancer topic, selected “Colorectal cancer screening among adults aged 45–75 years,” kept only Age-adjusted Prevalence and Overall values, limited the data to 2020 and 2022, and removed non-state locations so the dataset matched our focus on U.S. states. We also created a new Region column that grouped states into the Northeast, Midwest, South, and West. Finally, we kept only the columns needed for analysis and visualization, resulting in a clean dataset ready for Tableau.
 
 
 # Question 1 Analysis
