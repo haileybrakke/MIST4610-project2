@@ -28,7 +28,12 @@ Geolocation (Geographic values): Specifies the exact location data was collected
 
 # Question 1
 
+How do rates of cancer vary across U.S. states, and which regions consistently show the highest burden?
+
 # Question 2
+
+What is the relationship between behavioral risk factors (e.g., smoking, physical inactivity, poor diet) and cancer prevalence across states?
+
 
 # Manipulations Applied to Dataset
 
