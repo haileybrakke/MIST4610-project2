@@ -33,8 +33,8 @@ We are basing our analysis on geographic variation and demographic disparities i
 
 # Question 1
 
-How do colorectal cancer screening rates vary across U.S. states, and which regions consistently show the lowest screening rates?  
-Importance:
+How do colorectal cancer screening rates vary across U.S. states, and which regions consistently show the lowest screening rates?     
+Importance: This question is important because geographic variation in screening rates can reveal differences in access to preventive healthcare, public health outreach, insurance coverage, healthcare infrastructure, and awareness across different parts of the country. Colorectal cancer screenings are immensely important for the mortality of a patient, reducing death by up to 73% (American Cancer Society). Understanding which areas have low screening rates is important to realize where to focus education efforts on colorectal cancer screenings.
 
 # Question 2
 
