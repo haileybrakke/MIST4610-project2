@@ -29,7 +29,7 @@ Geolocation (Geographic values): Specifies the exact location data was collected
 # Question 1
 
 How have cancer rates changed over time across U.S. states, and which regions consistently experience the highest burden?   
-Importance: xxxx
+Importance: Evaluating how cancer rates change over time and which areas are suffering the most is important from social and economic perspectives. From a social standpoint, regional differences in cancer burden may reflect disparities in healthcare access, environmental quality, and socioeconomic conditions. Understanding these patterns helps highlight populations that may be underserved or at greater risk. From an economic perspective, understanding how rates are changing over time will help evaluate the success of public health initatives and investments in overall healthcare infrastructure. This relates to the dataset's cancer-related indicators which include information on the over multiple years and multiple regions of the United States.
 
 # Question 2
 
