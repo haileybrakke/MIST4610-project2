@@ -47,6 +47,7 @@ Question 1: For Question 1, we used Excel’s Transform feature to narrow the or
 
 
 # Question 1 Analysis
+<img width="1374" height="888" alt="Screenshot 2026-05-02 at 9 58 57 PM" src="https://github.com/user-attachments/assets/127a6740-05e7-4241-97ad-48fc15e8022b" />
 
 
 # Question 2 Analysis
