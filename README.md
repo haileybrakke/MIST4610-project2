@@ -65,5 +65,6 @@ Overall, our analysis reflects that the West is the region that needs the most e
 
 <img width="1229" height="778" alt="Screenshot 2026-05-04 at 5 12 31 AM" src="https://github.com/user-attachments/assets/8d49ac46-19ca-4024-8b4a-00cbfb30a18e" />
 
-
+**Interpretation:**
+The results show 
 
