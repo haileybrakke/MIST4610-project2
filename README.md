@@ -49,7 +49,8 @@ Question 2: For Question 2, we utilized the same data tranfromation from questio
 
 
 # Question 1 Analysis
-<img width="1226" height="907" alt="Screenshot 2026-05-04 at 12 00 07 PM" src="https://github.com/user-attachments/assets/eb92eb0c-64e6-4453-9f24-73e8107390b2" />
+<img width="1226" height="907" alt="Screenshot 2026-05-04 at 12 00 07 PM" src="https://github.com/user-attachments/assets/eb92eb0c-64e6-4453-9f24-73e8107390b2" />      
+
 <img width="1222" height="903" alt="Screenshot 2026-05-04 at 12 00 33 PM" src="https://github.com/user-attachments/assets/77048b14-13ca-423f-8b57-568faffadb4b" />
 
 
