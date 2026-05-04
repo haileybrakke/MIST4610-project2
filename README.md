@@ -3,7 +3,7 @@
 # Team Information
 Hailey Brakke (https://github.com/haileybrakke/MIST4610-project2)
 
-Will Federer (put link here)
+Will Federer (https://github.com/willfederer10/MIST4610-project2)
 
 Summer Sayedzada (put link here)
 
