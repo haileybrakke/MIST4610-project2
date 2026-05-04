@@ -39,7 +39,7 @@ Importance: This question is important because geographic variation in screening
 # Question 2
 
 How do colorectal cancer screening rates differ by race/ethnicity across U.S. states, and where are the largest disparities?   
-Importance: 
+Importance: This question is critical because racial and ethnic disparities in screening rates reflect the difference in healthcare access, quality of care, and societal determinants of health. While screening can reduce colorectal cancer mortality by up to 73%, these benefits are not distributed equally, which is shown by the difference in the screening rates.
 
 # Manipulations Applied to Dataset
 
