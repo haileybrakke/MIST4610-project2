@@ -9,7 +9,7 @@ Summer Sayedzada (put link here)
 
 Tony Jimenez (put link here)
 
-Ja’Khiyan Dowdy (put link here)
+Ja’Khiyan Dowdy (https://github.com/jakhiyan0219-hub/MIST4610-Project2.git)
 
 # Our Dataset
 
