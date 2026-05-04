@@ -75,4 +75,3 @@ The interactive map shows the in detail variations by state while being seperate
 
 Overall, our analysis reflects that a "one size fits all" approach to the public health of colorectal cancer will not close the equity gap. The West and South regions require the most support, but the efforts must be broken down into the specific groups for each state. To improve overall national health focused on colorectral cancer, the length of the dumbbell line in the equity gap chart should be focused on to ensure that a person's race or state doesn't dictate their likelihood of receiving the prevantative care needed.
 
-# Tableau Workbooks
