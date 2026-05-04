@@ -45,11 +45,17 @@ Importance: This question is critical because racial and ethnic disparities in s
 
 Question 1: For Question 1, we used Excel’s Transform feature to narrow the original U.S. Chronic Disease Indicators dataset to only the records needed for colorectal cancer screening analysis. We filtered the data to the Cancer topic, selected “Colorectal cancer screening among adults aged 45–75 years,” kept only Age-adjusted Prevalence and Overall values, limited the data to 2020 and 2022, and removed non-state locations so the dataset matched our focus on U.S. states. We also created a new Region column that grouped states into the Northeast, Midwest, South, and West. Finally, we kept only the columns needed for analysis and visualization, resulting in a clean dataset ready for Tableau.
 
+Question 2: For Question 2, we utilized the same data tranfromation from question 1, we just added the stratification column which included Race/Ethnicity and the description for race and ethnicity.The dataset utilized the same years,and same topics as stated for question 1, leaving us with another clean dataset.
+
 
 # Question 1 Analysis
 <img width="1374" height="888" alt="Screenshot 2026-05-02 at 9 58 57 PM" src="https://github.com/user-attachments/assets/127a6740-05e7-4241-97ad-48fc15e8022b" />
 
 
 # Question 2 Analysis
+<img width="1231" height="801" alt="Screenshot 2026-05-04 at 5 11 01 AM" src="https://github.com/user-attachments/assets/3a529df4-f083-49f3-865e-d6b8882be45f" />
+
+<img width="1229" height="778" alt="Screenshot 2026-05-04 at 5 12 31 AM" src="https://github.com/user-attachments/assets/8d49ac46-19ca-4024-8b4a-00cbfb30a18e" />
+
 
 
