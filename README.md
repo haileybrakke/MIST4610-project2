@@ -74,3 +74,5 @@ The screening equity gaps chart highlights consistent trends across all four reg
 The interactive map shows the in detail variations by state while being seperated in regions. As a whole, the South region has the lowest screening rate for American Indian/Alaska Native, however in Texas they have the highest screening rate which is over 60%. Viewing the data by state allows it to be better detailed and allow the viewer to now what specific health initiatives must be targeted in those communites specifically rather than on a regional basis.
 
 Overall, our analysis reflects that a "one size fits all" approach to the public health of colorectal cancer will not close the equity gap. The West and South regions require the most support, but the efforts must be broken down into the specific groups for each state. To improve overall national health focused on colorectral cancer, the length of the dumbbell line in the equity gap chart should be focused on to ensure that a person's race or state doesn't dictate their likelihood of receiving the prevantative care needed.
+
+# Tableau Workbooks
